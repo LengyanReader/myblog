@@ -1,0 +1,27 @@
+---
+title: Cowork of  Git and Rstudio
+author: yunan
+date: '2017-02-09'
+slug: cowork-of-git-and-rstudio
+categories:
+  - IT&Data
+tags:
+  - git
+  - rstudio
+---
+
+As a dataman, We people's attitude toward CS or IT guy's stuff is not possible to the field of interesting.
+What is cared by me are convenience,effiency and easy-learning,as to other features,at least for now it is not my focuse
+
+Git is a good tool to manage codes,and rstudio is so friendly to rusers, and the r-code's management needs both of them working together, so the blog is written for this.
+
+
+## Git's Installation and Configuration
+
+https://mp.weixin.qq.com/s?subscene=23&__biz=MzI1MzAyNDMyNg==&mid=2650282921&idx=1&sn=b067cd4297c4b05251e41b505bcfc808&chksm=f1d67a80c6a1f3962ee688a55b72e3478078d38399800252ba437322629d1c53e349d847aa9d&scene=7#rd
+
+
+## Operation in Rstudio
+
+
+
