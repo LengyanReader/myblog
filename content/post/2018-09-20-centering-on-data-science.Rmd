@@ -11,8 +11,31 @@ tags:
 ---
 
 It has been the so-called and actual knowledge-bombing&explosion time for 30 plus years,especially up to these 10 plus years，with the wide using of smartphone and the AI industry's rising-again，we can deeply feel it.
-In light of this ,to surive:(,,live  and enjoy the world,
 
-![](/post/2018-09-20-centering-on-data-science_files/Capture.PNG)
+In light of this ,to surive-haha,to live  and to enjoy the world,  a dataman like me-people has to and should let knowledge management as a habit and accept the fact of life-long learning
 
-We always know that 
+We always know several principles&tips as
+
+1. Make other's knowledge become your own
+2. Make your own knowledge in practice
+3. If you have no time to use it yet now,at least record it and keep a good mark as a reminder
+  
+so,I will keep a good mark here
+
+I've built some programs in github these days and it will go on ，the first is to summarize part of previous working cases,learning materials and research orientation ,the second is to proceed some improvements and extending in the field of DS based on the summary.
+
+So many works need putting in order and modifying，can't help feeling tough.so as to these repositores of github，I will fill in the information one by one later on，
+https://github.com/Yunan-Tung
+
+
+DS is a field,which is mixed with boring and amazing,rationality and sensibility.although it is not all-powerful,it is still one of the best ways to help understand the world and its truth in pure and
+elegant manner
+
+
+
+
+
+
+
+
+
