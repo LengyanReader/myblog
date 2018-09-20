@@ -1,0 +1,18 @@
+---
+title: Centering on Data Science
+author: yunan
+date: '2018-09-20'
+slug: centering-on-data-science
+categories:
+  - IT&Data
+  - 叨叨念
+tags:
+  - data science
+---
+
+It has been the so-called and actual knowledge-bombing&explosion time for 30 plus years,especially up to these 10 plus years，with the wide using of smartphone and the AI industry's rising-again，we can deeply feel it.
+In light of this ,to surive:(,,live  and enjoy the world,
+
+![](/post/2018-09-20-centering-on-data-science_files/Capture.PNG)
+
+We always know that 
